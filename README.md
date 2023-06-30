@@ -1,3 +1,1 @@
 # relogio-simples
-
-# Apenas praticando 
